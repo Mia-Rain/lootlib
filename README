@@ -1,0 +1,6 @@
+---
+# lootlib
+-- library to produce loot for the mia roguelike
+# notes
+-- this library /will/ depend on the psh-prng and rbuilder submods
+-- please clone with `--recursive`

@@ -1,0 +1,8 @@
+[submodule "rng"]
+	path = rng
+	url = https://git.unix.lgbt/Mia/psh-prng
+	branch = master
+[submodule "grid"]
+	path = grid
+	url = https://git.unix.lgbt/Mia/rbr
+	branch = head
