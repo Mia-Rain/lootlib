@@ -1,6 +1,17 @@
 ---
 # lootlib
 -- library to produce loot for the mia roguelike
+# item ideas
+-- below are some ideas for items
+--- these are here for later reference
+---- demon's blood
+-- can be used for as a material or item to sell
+-- should drop from demons or be purchased
+---- blood sword -- forged from the blood of a demon
+-- can be forged from demon's blood or via random drop chance
+---- blood sword of imprisonment -- forged by an imprisoned demon from it's own blood
+-- can only be obtained via random drop or by defeating an escapist demon
+---- 
 # notes
 -- this library /will/ depend on the psh-prng and rbuilder submods
 -- please clone with `--recursive`
